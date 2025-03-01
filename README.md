@@ -90,5 +90,5 @@ Data Preprocessing: For better performance, optimize data preprocessing steps, e
 Ensemble Learning: Use ensemble techniques like stacking and boosting to further improve classification accuracy.
 Model Architecture Enhancements: Integrate convolutional layers, attention mechanisms, or RNNs to improve the model’s ability to capture hierarchical or sequential relationships in the fault data.
 
-## Contribution
-Feel free to fork this repository, make improvements, and submit pull requests. We encourage contributions that enhance model performance, scalability, and usability.
+## Conclusion
+The GESDAE model is designed to tackle fault diagnosis in rotating machinery with high-dimensional data. By combining deep learning, graph embedding, and regularization techniques, it provides a robust solution for both simple and complex fault scenarios. This repository includes code for training, testing, and evaluating the model on different fault diagnosis tasks.
