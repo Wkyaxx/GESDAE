@@ -23,7 +23,6 @@ For verification, you can access the GitHub repository here: [GESDAE on GitHub](
 - PyWavelets (for wavelet transform)
 
 You can install the required dependencies using pip:
-```bash
 pip install -r requirements.txt
 
 ## Directory Structure
